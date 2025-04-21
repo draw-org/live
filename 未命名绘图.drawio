@@ -170,7 +170,7 @@
         <mxCell id="Mn6TFEwCehOoePPqHeMJ-109" value="Live Renderer" style="text;html=1;align=center;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="987.5" y="560" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mn6TFEwCehOoePPqHeMJ-111" value="Local Store" style="html=1;aspect=fixed;fontSize=16;labelBackgroundColor=none;whiteSpace=wrap;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Mn6TFEwCehOoePPqHeMJ-111" value="Electron Store" style="html=1;aspect=fixed;fontSize=16;labelBackgroundColor=none;whiteSpace=wrap;dashed=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="405" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Mn6TFEwCehOoePPqHeMJ-113" value="" style="rounded=0;html=1;dashed=1;noLabel=0;fillColor=none;fontSize=16;labelBackgroundColor=none;whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
